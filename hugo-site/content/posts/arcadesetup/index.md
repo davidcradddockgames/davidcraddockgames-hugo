@@ -13,10 +13,6 @@ I've always wanted an arcade machine in my home. But I could never really afford
 Recently I thought to myself, "I'm 42, I'm not getting any younger". So I built an arcade setup using the things I already had in the home.
 
 ![image](1.JPG)
-![image](2.JPG)
-![image](3.JPG)
-![image](4.JPG)
-![image](5.JPG)
 
 ## Games
 
@@ -29,6 +25,8 @@ The ROMs I have are all stored on my file server upstairs. I can get around a 3g
 ### Light Gun Games
 
 [https://home.davidcraddock.net/PlayNiteHTMLExport/default%20list%20text%20combobox%20quicklinks_category_ascending_name_ascending.html#quicklink-Light%20Gun%20Games](https://home.davidcraddock.net/PlayNiteHTMLExport/default%20list%20text%20combobox%20quicklinks_category_ascending_name_ascending.html#quicklink-Light%20Gun%20Games) shows the light gun games (both PC native and arcade) that are currently playable on the setup. Again, I am adding more to the list as I go through.
+
+![image](2.JPG)
 
 ## Software
 
@@ -49,6 +47,8 @@ It uses a system of having multiple third-party 'cores' which slot in to the mai
 The [FinalBurn Neo RetroArch Core](https://docs.libretro.com/library/fbneo/) is essentially an arcade machine emulator, not unlike MAME. It will emulate most types of arcade board prior to 2012 or so, including the Neo Geo AES, which is the one most of my ROMs are based around.
 
 ## Hardware
+
+![image](3.JPG)
 
 ### Arcade Sticks
 
@@ -76,6 +76,8 @@ So that I can control things easier from just the standing position at the arcad
 
 ## Audio and Visual
 
+![image](4.JPG)
+
 ### TV
 
 This is a 40" Sony TV which is 1080p and I bought it I think in 2015. The picture is still good. It is connected to my gaming PC.
@@ -91,6 +93,8 @@ When I say 'Hey google arcade' to my Google Home Mini voice assistant, it config
 ## Furniture
 
 I'm currently using an old garden table, and a crate, with a black cloth draped over it! Very budget. Maybe at some point I will get a more expensive table, but this setup holds everything at an ergonomic height so you can use the controllers and light guns with the TV at a good distances.
+
+![image](5.JPG)
 
 ## Possible Improvements
 
