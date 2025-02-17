@@ -1,7 +1,7 @@
 ---
 category:
   - gaming
-date: "2024-10-21T00:40:14+00:00"
+date: "2025-02-17:40:14+00:00"
 guid: http://www.davidcraddock.games/arcade-setup
 title: Budget Retro Arcade Setup
 url: /arcade-setup
@@ -11,6 +11,12 @@ url: /arcade-setup
 I've always wanted an arcade machine in my home. But I could never really afford one, in terms of time and space.
 
 Recently I thought to myself, "I'm 42, I'm not getting any younger". So I built an arcade setup using the things I already had in the home.
+
+![image](1.JPG)
+![image](2.JPG)
+![image](3.JPG)
+![image](4.JPG)
+![image](5.JPG)
 
 ## Games
 
@@ -50,17 +56,17 @@ I use two Arcade Sticks that I've had for a while to control the arcade games. B
 
 #### Mayflash Arcade Stick F300 Elite
 
-This is the arcade stick that I generally use as it's the better of the two. It has genuine Swarma arcade buttons and a joystick, which makes the arcade experience more like a 'real' arcade machine
+This is the arcade stick that I generally use as it's the better of the two. It has genuine Swarma arcade buttons and a American style arcade joystick, which makes the arcade experience more like a 'real' arcade machine
 
 #### Datel Arcade Pro Joystick
 
-This is the 'guest' arcade stick. It is a fairly cheap but functional arcade stick.
+This is the 'guest' arcade stick. It is a fairly cheap but functional arcade stick, that I'm looking to upgrade to a second F300 Elite in the future.
 
 #### Sinden Light-Gun (Black) with recoil
 
 This is the light-gun that I use most of the time, as it's the more expensive one with recoil. It is from [SindenLightgun.com](https://sindenlightgun.com/) and works very well with all types of screens I've tested it on, at all angles.
 
-#### Sinden Light-Gun (Red)
+#### Sinden Light-Gun (Red) without recoil
 
 This is the 'guest' light gun for 2 player light-gun games.
 
@@ -76,7 +82,7 @@ This is a 40" Sony TV which is 1080p and I bought it I think in 2015. The pictur
 
 ### Speakers
 
-I have 2x Genelec 8020D speakers and a Eris 3.5 speaker I've converted into a subwoofer. I have them connected to my gaming PC. I use SonorWorks SoundID Reference to calibrate the sound to the room. The sound is very good, and the subwoofer is very powerful.
+I have two cheap logitech speakers attached to the HDMI audio output of the TV. They are not great, but they are good enough for the arcade setup. I have other, much better speakers, but they are not in the right place for the arcade setup.
 
 ### Google Home Routine
 
