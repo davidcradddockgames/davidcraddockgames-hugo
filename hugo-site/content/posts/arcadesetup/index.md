@@ -8,6 +8,8 @@ url: /arcade-setup
 
 ---
 
+![image](4.JPG)
+
 I've always wanted an arcade machine in my home. But I could never really afford one, in terms of time and space.
 
 Recently I thought to myself, "I'm 42, I'm not getting any younger". So I built an arcade setup using the things I already had in the home.
