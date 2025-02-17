@@ -3,16 +3,14 @@ category:
   - gaming
 date: "2025-02-17:40:14+00:00"
 guid: http://www.davidcraddock.games/arcade-setup
-title: Budget Retro Arcade Setup
+title: Budget Home Retro Arcade Setup
 url: /arcade-setup
 
 ---
 
 ![image](4.JPG)
 
-I've always wanted an arcade machine in my home. But I could never really afford one, in terms of time and space.
-
-Recently I thought to myself, "I'm 42, I'm not getting any younger". So I built an arcade setup using the things I already had in the home.
+I've always wanted an arcade machine in my home. But I could never really afford one, in terms of time and space. Recently I thought to myself, "I'm not getting any younger". So I built an arcade setup mostly just using the things I already had in the home.
 
 ![image](1.JPG)
 
@@ -86,7 +84,7 @@ This is a 40" Sony TV which is 1080p and I bought it I think in 2015. The pictur
 
 ### Speakers
 
-I have two cheap logitech speakers attached to the HDMI audio output of the TV. They are not great, but they are good enough for the arcade setup. I have other, much better speakers, but they are not in the right place for the arcade setup.
+I have two cheap Logitech speakers attached to the HDMI audio output of the TV. They are not great, but they are good enough for the arcade setup. I have other, much better speakers, but they are not in the right place for the arcade setup.
 
 ### Google Home Routine
 
@@ -104,7 +102,6 @@ I'm currently using an old garden table, and a crate, with a black cloth draped 
 * I am going through games and adding them one-by-one to the setup, once I have verified they work and that the metadata is correct.
 * I want to add footswitches and configure them so that I can play Time Crisis 2 with the 'cover' switch mechanic.
 * I want to experiment with using my Hue Entertainment area to add context-sensitive lighting to the gaming experience.
-* I want to look at getting stereo speakers for the TV, as the sound is currently coming from the wrong direction for proper stereo sound.
 
 
 
