@@ -82,6 +82,8 @@ So that I can control things easier from just the standing position at the arcad
 
 This is a 40" Sony TV which is 1080p and I bought it I think in 2015. The picture is still good. It is connected to my gaming PC.
 
+{{< youtube rGTLvnSGNIw >}}
+
 ### Speakers
 
 I have two cheap Logitech speakers attached to the HDMI audio output of the TV. They are not great, but they are good enough for the arcade setup. I have other, much better speakers, but they are not in the right place for the arcade setup.
