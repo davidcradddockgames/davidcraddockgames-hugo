@@ -28,6 +28,8 @@ The ROMs I have are all stored on my file server upstairs. I can get around a 3g
 
 ![image](2.JPG)
 
+{{< youtube bMZLESPD-nI >}}
+
 ## Software
 
 ### Playnite
