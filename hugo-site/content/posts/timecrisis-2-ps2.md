@@ -12,7 +12,7 @@ I have built a good setup for single player Time Crisis 2 on the PC, using a PS2
 
 ## Software
 
-* Time Splitters 2 (USA version) for PS2 - SLUS-210219
+* Time Crisis 2 (USA version) for PS2 - SLUS-210219
 
 ### Sinden Light Gun Utility Patched with Recoil support for Patched PS2 Emulator
 
@@ -44,10 +44,13 @@ I have built a good setup for single player Time Crisis 2 on the PC, using a PS2
 
 * Sony 40" 1080p TV mounted on the wall
 
-## Configuration
+## Configuration Enabled
+
+I will eventually upload my modified forks of both modified Sinden Light gun and modified PCSX2 to my github and put the link here - this will come with all the config you will need.
 
 * Play in 4:3 (square resolution) as widescreen does not work with this game.
-* I will upload my modified forks of both modified Sinden Light gun and modified PCSX2 to my github and put the link here - this will come with all the config you will need.
+* I use the Sinden light gun border bezel.
+* I use a scanlines filter to give the game a retro CRT look.
 
 ## Setup Process
 
