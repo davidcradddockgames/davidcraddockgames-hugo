@@ -31,13 +31,18 @@ languages:
           url: search/
           weight: 10
         - name: Gaming Setup
-          url: https://davidcraddock.net/my-gaming-setup/
+          url: /Setup/
           weight: 15
-        - name: Gaming PC PlayNite Inventory
-          url: https://home.davidcraddock.net/PlayNiteHTMLExport/index.html
-        - name: Full Media Library
-          url: https://home.davidcraddock.net
+        - name: Home Arcade
+          url: /Arcade/
           weight: 16
+        - name: PC + Emulation Gamelist
+          url: https://home.davidcraddock.net/PlayNiteHTMLExport/index.html
+          weight: 17
+        - name: Consoles Gamelist
+          url: https://home.davidcraddock.net/#physicalconsolegames
+          weight: 18
+
 outputs:
   home:
     - HTML
