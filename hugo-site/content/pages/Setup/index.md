@@ -1,8 +1,8 @@
 ---
 date: "2023-06-26T19:52:05+00:00"
-guid: https://davidcraddock.net/?page_id=3856
-title: My Media and Gaming Setup
-url: /my-gaming-setup/
+guid: https://davidcraddock.games/Setup
+title: Gaming PC Setup
+url: /Setup/
 
 ---
 
@@ -12,8 +12,6 @@ url: /my-gaming-setup/
 ![image](mediasetup.png)
 
 The setup consists of a media/gaming PC, a gaming laptop, a gaming PC, a music production desk, a retro games console setup, an arcade pedestal setup in front of a TV, and a lot of controllers and games.
-
-For a post on how I built my budget arcade emulation pedestal setup, with pictures, see: [this post](https://davidcraddock.games/arcade-setup/)
 
 ### My Media/Gaming PC 'studio.local'
 

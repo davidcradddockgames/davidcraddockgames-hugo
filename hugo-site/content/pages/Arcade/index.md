@@ -1,10 +1,9 @@
 ---
 category:
   - gaming
-date: "2025-02-17:40:14+00:00"
-guid: http://www.davidcraddock.games/arcade-setup
-title: Budget Home Retro Arcade Setup
-url: /arcade-setup
+guid: http://davidcraddock.games/Arcade
+title: My Home Retro Arcade Setup
+url: /Arcade
 
 ---
 
