@@ -3,7 +3,6 @@
 set -e
 set -x
 
-rm -rf public/*
-hugo --gc
-hugo server --config ./hugo.yaml 
+hugo --gc --config ./hugo.yaml
+hugo server --buildDrafts --config ./hugo.yaml --disableFastRender
 
