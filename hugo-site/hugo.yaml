@@ -31,17 +31,17 @@ languages:
           url: search/
           weight: 10
         - name: Gaming Setup
-          url: /Setup/
-          weight: 15
+          url: Setup/
+          weight: 11
         - name: Home Arcade
-          url: /Arcade/
-          weight: 16
+          url: Arcade/
+          weight: 12
         - name: PC + Emulation Gamelist
           url: https://home.davidcraddock.net/PlayNiteHTMLExport/index.html
-          weight: 17
+          weight: 13
         - name: Consoles Gamelist
           url: https://home.davidcraddock.net/#physicalconsolegames
-          weight: 18
+          weight: 14
 
 outputs:
   home:
