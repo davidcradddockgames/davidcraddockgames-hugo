@@ -63,12 +63,11 @@ You will need the official PS2 USA region bios, it is easily found.
 
 #### HD Texture Pack
 
-The HD AI upscaled texture pack is available thanks to the efforts of <artist>. Please can you join his Patreon for the download link, or wait until he has one of his free weekends to download it.
+The HD AI upscaled texture pack is mentioned above. Make sure you follow the instructions and install it in the right textures directory, AND enable texture replacement on the Time Crisis 2 game in PSCX2 (it is off by default). I would put on pre-load texture caching too.
 
 #### Crosshairs
 
 There is a bug with the modified PSCX2/lightgun emulator setup in that you can enable two crosshairs, but only one colour will be displayed for both crosshairs. None the less it is extremely useful to have a custom crosshair, and I recommend the crosshair pack mentioned above.
-
 
 #### 16:9 Widescreen hack
 
