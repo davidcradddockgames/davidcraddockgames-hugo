@@ -224,7 +224,7 @@ guncon2_custom_config = false
 5. Replace the guncon2_cursor_path paths with the custom crosshair you downloaded earlier. Note that due to a bug it will only use two copies of the first one, but set both of them anyway.
 6. Launch the emulator and load the PS2 ROM.
 7. You should notice that textures cheats and hacks should be loaded, and the game will run. Exit the game.
-8. Change the PER GAME settings on the Sinden app for optimal video play. These are the optimal settings, I have a Nvidia 4070 graphics card, 32GB DDR4 RAM and a 12th Gen i7 CPU, so assuming you have a similar setup, these settings will look the best:
+8. Change the PER GAME settings on the PSCX2 app for optimal video play. These are the optimal settings, I have a Nvidia 4070 graphics card, 32GB DDR4 RAM and a 12th Gen i7 CPU, so assuming you have a similar setup, these settings will look the best:
 
 ```
 Internal Resolution: 1080p
