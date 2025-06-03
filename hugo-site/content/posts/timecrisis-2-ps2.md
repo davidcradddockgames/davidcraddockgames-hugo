@@ -55,11 +55,11 @@ Whenever you reconnect your lightguns the COM ports will change. You need to mak
 
 #### ROMS
 
-Use this CHD for the game <link>. You will need to use the USA Time Crisis II CHD and make sure the SLUS number matches exactly otherwise the config won't work.
+Use the CHD mentioned above for the game. You will need to use the USA Time Crisis II CHD and make sure the SLUS number matches exactly otherwise the config won't work.
 
 #### BIOS
 
-You will need the official PS2 USA region bios
+You will need the official PS2 USA region bios, it is easily found.
 
 #### HD Texture Pack
 
