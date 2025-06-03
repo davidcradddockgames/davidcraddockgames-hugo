@@ -135,6 +135,10 @@ Recommended settings for the modified lightgun settings are as follows -
 No outer border.
 2% inner border
 
+Click 'toggle 4:3 and full border mode' on.
+
+Bind the border activation to a keyboard shortcut such as 'alt-b'
+
 ##### Lightgun 1 Keybindings:
 
 a,b,c,d,e,f,g etc from the top to bottom for BOTH offscreen and onscreen.
@@ -234,7 +238,10 @@ Post-Processing Shaders	 Scanlines
 
 #### Playing the game
 
-One thing to note is the gun config at the start - what you should do is take the light gun it mentions and shoot the centre of the crosshair from different angles until the custom cursor AND the game cursor line up. When they line up, press the foot pedal for that gun, and that gun is configured.
+1. Restart the computer as mentioned above.
+2. Launch the modified Sinden lightgun app, activate the border in FULL border mode, NOT 4:3 with alt-b, make sure the COM ports are accurate in the firmware tab.
+3. Launch the modified PSCX2 app, and load time crisis 2 from the menu
+4. One thing to note is the gun config at the start - what you should do is take the light gun it mentions and shoot the centre of the crosshair from different angles until the custom cursor AND the game cursor line up. When they line up, press the foot pedal for that gun, and that gun is configured.
 
 Now you are finally ready to play the game!
 
