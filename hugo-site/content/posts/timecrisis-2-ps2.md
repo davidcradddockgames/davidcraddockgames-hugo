@@ -16,6 +16,8 @@ The current instructions require a 1080p screen and 2 footpedals, and enable 2 p
 
 * Time Crisis 2 (USA version) for PS2 - SLUS-210219
 
+Use the latest CHD version from [this ROM pack](https://archive.org/details/lightgunsbatocera) in the ps2.7z file.
+
 ### Sinden Light Gun Utility Patched with support for Patched PCSX2 Emulator
 
 * <a href="https://github.com/nixxou/SindenSoft/releases/tag/V1">Sinden Light Gun Utility</a>
@@ -33,6 +35,7 @@ The current instructions require a 1080p screen and 2 footpedals, and enable 2 p
 Throw him some money, it's a thankless task!
 
 * <a href="https://gbatemp.net/threads/my-ps2-packs.621422/">https://gbatemp.net/threads/my-ps2-packs.621422/</a>
+
 
 ### Notes
 
