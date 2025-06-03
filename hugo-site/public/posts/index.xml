@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on DavidCraddock.Games</title>
+    <link>https://davidcraddock.games/posts/</link>
+    <description>Recent content in Posts on DavidCraddock.Games</description>
+    <image>
+      <title>DavidCraddock.Games</title>
+      <url>https://davidcraddock.games/mugshot.png</url>
+      <link>https://davidcraddock.games/mugshot.png</link>
+    </image>
+    <generator>Hugo -- 0.147.6</generator>
+    <language>en</language>
+    <copyright>David Paul Craddock</copyright>
+    <lastBuildDate>Tue, 03 Jun 2025 00:40:14 +0000</lastBuildDate>
+    <atom:link href="https://davidcraddock.games/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2 player Time Crisis 2 with Sinden Light Gun on PCSX2</title>
+      <link>https://davidcraddock.games/time-crisis-2-1-player-sinden/</link>
+      <pubDate>Tue, 03 Jun 2025 00:40:14 +0000</pubDate>
+       <guid isPermaLink="false">http://www.davidcraddock.games/?p=6</guid> 
+      <description>&lt;p&gt;This is a work in progress guide that I&amp;rsquo;m updating to be the &amp;lsquo;optimal&amp;rsquo; way of playing Time Crisis 2 on PC.&lt;/p&gt;
+&lt;p&gt;The current instructions require a 1080p screen and 2 footpedals, and enable 2 player mode with Sinden light guns.&lt;/p&gt;
+&lt;h2 id=&#34;software-required&#34;&gt;Software Required&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Time Crisis 2 (USA version) for PS2 - SLUS-210219&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;sinden-light-gun-utility-patched-with-support-for-patched-pcsx2-emulator&#34;&gt;Sinden Light Gun Utility Patched with support for Patched PCSX2 Emulator&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/nixxou/SindenSoft/releases/tag/V1&#34;&gt;Sinden Light Gun Utility&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;pcsx2-emulator-patched-for-sinden-support&#34;&gt;PCSX2 Emulator patched for Sinden Support&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/nixxou/pcsx2/releases/tag/V1.1&#34;&gt;PCSX2 Emulator&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;time-crisis-2-target-gun-cursors&#34;&gt;Time Crisis 2 Target Gun Cursors&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://mega.nz/folder/IiMzQTzR#yf8BWqult3kILq6dVPp4ZQ&#34;&gt;Cursor pack&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;time-crisis-2-hd-retexture-pack-paetron-supported&#34;&gt;Time Crisis 2 HD Retexture Pack (Paetron-supported)&lt;/h3&gt;
+&lt;p&gt;Throw him some money, it&amp;rsquo;s a thankless task!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Epoch Light Gun Game Review</title>
+      <link>https://davidcraddock.games/epoch-light-gun-game-review/</link>
+      <pubDate>Sun, 06 Apr 2025 16:57:14 +0000</pubDate>
+       <guid isPermaLink="false">https://davidcraddock.games/epoch-light-gun-game-review/</guid> 
+      <description>&lt;p&gt;I setup and played the &lt;a href=&#34;https://store.steampowered.com/app/270510/EPOCH/&#34;&gt;&amp;lsquo;Epoch&amp;rsquo; rail-shooter game available on steam&lt;/a&gt;, with my Sinden light gun setup.&lt;/p&gt;
+&lt;h2 id=&#34;negatives&#34;&gt;Negatives&lt;/h2&gt;
+&lt;p&gt;I have to say, I didn&amp;rsquo;t like the mechanics of the game. The gameplay seemed pretty boring, and instead of one-shot-one-kill, you have to constantly &amp;lsquo;wear down&amp;rsquo; enemies through shooting at them, and moving out of their way.&lt;/p&gt;
+&lt;p&gt;This doesn&amp;rsquo;t really work very well on the Sinden light gun, as, although there are controls for moving - 4 buttons and a d-pad - on the gun, constantly having to switch to them and away from the &amp;lsquo;aim and fire&amp;rsquo; action does not work very well.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Batsugun</title>
+      <link>https://davidcraddock.games/batsugun/</link>
+      <pubDate>Sat, 14 Dec 2024 03:15:14 +0000</pubDate>
+       <guid isPermaLink="false">http://www.davidcraddock.games/?p=5630</guid> 
+      <description>&lt;p&gt;I played through the version of [https://store.steampowered.com/app/2023000/Batsugun/](Batsugun on Steam) on the arcade setup.&lt;/p&gt;
+&lt;p&gt;It is part of the [Toaplan Arcade Shoot ‘Em Up Collection Vol.4](Toaplan Arcade Shoot &amp;lsquo;Em Up Collection Vol.4).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gunstar Heroes Review</title>
+      <link>https://davidcraddock.games/gunstar-heroes/</link>
+      <pubDate>Mon, 21 Oct 2024 00:40:14 +0000</pubDate>
+       <guid isPermaLink="false">http://www.davidcraddock.games/gunstar-heroes-pc</guid> 
+      <description>&lt;p&gt;For years I have been stuck with a working megadrive with a Gunstar Heroes cartridge that works UP UNTIL A POINT, and then crashes.&lt;/p&gt;
+&lt;p&gt;If it were fully working, this Gunstar Heroes megadrive cartridge would be worth £250 at least at Ebay current prices!&lt;/p&gt;
+&lt;p&gt;But more annoyingly, I have not been able to play the game properly.&lt;/p&gt;
+&lt;p&gt;When Sega decided to discontinue the Sega Megadrive Collection on Steam, they offered a low price to buy all of the games, one of which was - you guessed it, Gunstar Heroes.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>New Gaming Blog</title>
+      <link>https://davidcraddock.games/new-gaming-blog/</link>
+      <pubDate>Mon, 21 Oct 2024 00:40:14 +0000</pubDate>
+       <guid isPermaLink="false">http://www.davidcraddock.games/?p=1</guid> 
+      <description>&lt;p&gt;This is my new gaming blog, where I will write reviews of games I&amp;rsquo;ve played, game accessories I&amp;rsquo;ve bought, and anything else PC or console gaming-related that I can think of.&lt;/p&gt;
+&lt;p&gt;It is using the same setup as my main &lt;a href=&#34;https://davidcraddock.net&#34;&gt;https://davidcraddock.net&lt;/a&gt; blog - as in - it&amp;rsquo;s self-hosted, and uses the Hugo Go-based static blogging engine.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Time Crisis 2 Setup</title>
+      <link>https://davidcraddock.games/time-crisis-2-setup/</link>
+      <pubDate>Mon, 21 Oct 2024 00:40:14 +0000</pubDate>
+       <guid isPermaLink="false">http://www.davidcraddock.games/?p=2</guid> 
+      <description>&lt;p&gt;Time Crisis 2 is a light-gun shooter arcade game developed and published by Namco. It was released in arcades in 1997, and later ported to the PlayStation 2 in 2001. It is the second instalment in the Time Crisis series.&lt;/p&gt;
+&lt;p&gt;The game features a two-player mode, where each player takes turns using a light gun to shoot enemies and reload. Players can duck behind cover to avoid enemy fire, and pop out to shoot enemies. The game also features a pedal that players can step on to pop out of cover and shoot enemies.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
