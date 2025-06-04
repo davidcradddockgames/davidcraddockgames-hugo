@@ -68,7 +68,7 @@ directory. There should be a further zip file in this directory along with some 
 #### To Play
 
 1. Restart the PC to be on the safe side
-2. Run the Sinden Lightgun hypseus-singe shortcut, make sure the lightguns are detected, and turn on the border with 'alt b'
+2. Run the Sinden Lightgun hypseus-singe shortcut, make sure the lightguns are detected, and turn on the border to full screen NOT 4:3, with 'alt b'
 3. Run the MAD DOG.bat shortcut
 4. Play the game!
 
