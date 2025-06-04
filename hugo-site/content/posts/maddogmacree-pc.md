@@ -3,12 +3,12 @@ category:
   - gaming
 date: "2025-06-03T00:40:14+00:00"
 guid: http://www.davidcraddock.games/?p=7
-title: 2 player Mad Dog Mcree with Sinden Light Gun on PC
+title: 2 player Mad Dog Mccree with Sinden Light Gun on PC
 url: /mad-dog-mcree-sinden-pc
 
 ---
 
-This is how I got Mad Dog Mcree, the 1990 American Laser Game, working with two Sinden light guns.
+This is how I got Mad Dog Mccree, the 1990 American Laser Game, working with two Sinden light guns.
 
 ## Software Required
 
@@ -78,4 +78,6 @@ directory. There should be a further zip file in this directory along with some 
 * "5" on the keyboard - insert credits
 * "1" on the keyboard - player 1 start
 * "2" on the keyboard - player 2 start
+* To reload, put the gun offscreen and fire
+* To skip a skippable scene, fire the screen
 
