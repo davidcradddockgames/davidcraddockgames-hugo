@@ -28,7 +28,7 @@ This is for a 40" 1080p monitor/TV.
 
 #### Manymouse
 
-The `-sinden` flag for hypseus-singe uses 'Manymouse' which allows native windows 11 support for dual mouse mode using the standard Sinden light gun software. This results in very accurate aiming.
+The sinden support for hypseus-singe uses 'Manymouse' which allows native windows 11 support for dual mouse mode using the standard Sinden light gun software. This results in very accurate aiming.
 
 #### Bezel
 
