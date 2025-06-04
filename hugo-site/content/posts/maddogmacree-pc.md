@@ -73,3 +73,9 @@ directory. There should be a further zip file in this directory along with some 
 4. Play the game!
 
 
+#### Controls
+
+* "5" on the keyboard - insert credits
+* "1" on the keyboard - player 1 start
+* "2" on the keyboard - player 2 start
+
