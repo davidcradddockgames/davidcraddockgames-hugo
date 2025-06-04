@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Pages on DavidCraddock.Games</title>
+    <link>https://davidcraddock.games/pages/</link>
+    <description>Recent content in Pages on DavidCraddock.Games</description>
+    <image>
+      <title>DavidCraddock.Games</title>
+      <url>https://davidcraddock.games/mugshot.png</url>
+      <link>https://davidcraddock.games/mugshot.png</link>
+    </image>
+    <generator>Hugo -- 0.147.6</generator>
+    <language>en</language>
+    <copyright>David Paul Craddock</copyright>
+    <lastBuildDate>Mon, 26 Jun 2023 19:52:05 +0000</lastBuildDate>
+    <atom:link href="https://davidcraddock.games/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gaming PC Setup</title>
+      <link>https://davidcraddock.games/Setup/</link>
+      <pubDate>Mon, 26 Jun 2023 19:52:05 +0000</pubDate>
+       <guid isPermaLink="false">https://davidcraddock.games/Setup</guid> 
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/w-QOfONKTWs?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;p&gt;&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;https://davidcraddock.games/Setup/gamingsetup.jpg&#34;&gt;
+&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;https://davidcraddock.games/Setup/mediasetup.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The setup consists of a media/gaming PC, a gaming laptop, a gaming PC, a music production desk, a retro games console setup, an arcade pedestal setup in front of a TV, and a lot of controllers and games.&lt;/p&gt;
+&lt;h3 id=&#34;my-mediagaming-pc-studiolocal&#34;&gt;My Media/Gaming PC &amp;lsquo;studio.local&amp;rsquo;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;12th Gen i7 CPU&lt;/li&gt;
+&lt;li&gt;32GB DDR4 RAM&lt;/li&gt;
+&lt;li&gt;1x NVme M.2 SSD 1TB (system)&lt;/li&gt;
+&lt;li&gt;1x 1TB SSD&lt;/li&gt;
+&lt;li&gt;1x 500GB SSD&lt;/li&gt;
+&lt;li&gt;1x 2.5 TB HDD (storage)&lt;/li&gt;
+&lt;li&gt;3x Logitech C920 Webcams (for streaming)&lt;/li&gt;
+&lt;li&gt;1x Logitech C270 Webcam (for video calls)&lt;/li&gt;
+&lt;li&gt;1x Nvidia 4070 GPU&lt;/li&gt;
+&lt;li&gt;10Gb/sec fibre optic network card&lt;/li&gt;
+&lt;li&gt;2x Libredrive flashed LG-WH16NS40 multi-disk optical drivers for ripping Blu-rays, CDs, DVDs and any optical disk with MakeMKV and games for my Plex server and emulators.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;media-pc-software&#34;&gt;Media PC Software&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;dbPowerAmp CD Ripper (lifetime licence)&lt;/li&gt;
+&lt;li&gt;MakeMKV for ripping CDs and Blu-rays (lifetime licence)&lt;/li&gt;
+&lt;li&gt;AnyDVD HD (lifetime licence) for ripping DVDs and Blu-rays&lt;/li&gt;
+&lt;li&gt;4K Video Downloader (lifetime licence) for ripping videos from Youtube etc&lt;/li&gt;
+&lt;li&gt;Imagemagik for creating GIFs and command line batch graphics manipulation and conversion&lt;/li&gt;
+&lt;li&gt;FFMPEG for command line batch video manipulation&lt;/li&gt;
+&lt;li&gt;Movavai Video Editor 2022&lt;/li&gt;
+&lt;li&gt;Sony Vegas 19 Video Editor for more complex video edits&lt;/li&gt;
+&lt;li&gt;Aseprite Pixel Graphics and Animated Gif Editor&lt;/li&gt;
+&lt;li&gt;Sonarworks SoundID Reference - speaker and headphones environmental EQ software.&lt;/li&gt;
+&lt;li&gt;Audacity Audio Editor for editing and mastering mixes uploaded to Mixcloud&lt;/li&gt;
+&lt;li&gt;Hye Sync (official app) for syncing Phillips Hue lights to movies, games, etc&lt;/li&gt;
+&lt;li&gt;PlexAmp and Plex for streaming audio and video from my Plex server at highest quality&lt;/li&gt;
+&lt;li&gt;VLC for video playback&lt;/li&gt;
+&lt;li&gt;HandBrake for transcoding and compressing video&lt;/li&gt;
+&lt;li&gt;OBS Studio (open source)&lt;/li&gt;
+&lt;li&gt;Resolume Avenue 7 for visuals for my DJ stream&lt;/li&gt;
+&lt;li&gt;Resolume Wire for creating custom beat-synced visualisations for my stream&lt;/li&gt;
+&lt;li&gt;Paint.NET open source graphics program for simple crops and photo editing&lt;/li&gt;
+&lt;li&gt;Aiseesoft Blu-ray Player (lifetime licence) for playing unripped Blu-rays on my PC&lt;/li&gt;
+&lt;li&gt;Bome MIDI Translator Classic (lifetime licence) for translating MIDI events to key presses - useful for complex streaming setups&lt;/li&gt;
+&lt;li&gt;Various free emulation tools for decrypting/anti-DRMing copies of video game console optical disks and getting them in a playable state for use in an emulator&lt;/li&gt;
+&lt;li&gt;Reaper DAW (shareware licence)&lt;/li&gt;
+&lt;li&gt;Ableton Live 11 Suite DAW&lt;/li&gt;
+&lt;li&gt;Filebot for renaming and organising media files&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;my-gaming-laptop-legionlocal&#34;&gt;My Gaming Laptop &amp;rsquo;legion.local&#39;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Lenovo Legion 5-15IAH 2022&lt;/li&gt;
+&lt;li&gt;i7 12th Gen&lt;/li&gt;
+&lt;li&gt;64GB DDR5 RAM&lt;/li&gt;
+&lt;li&gt;2x 2TB NVME M.2 4th Gen SSDs&lt;/li&gt;
+&lt;li&gt;Nvidia Laptop 3070TI&lt;/li&gt;
+&lt;li&gt;Cooling Gaming Laptop Pad&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;gaming-setup&#34;&gt;Gaming Setup&lt;/h3&gt;
+&lt;p&gt;I share this setup between the Media PC and the Gaming Laptop.
+I have a 4K HDR KVM switch and a USB 3.0 KVM switch so I can quickly switch between the two.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My Home Retro Arcade Setup</title>
+      <link>https://davidcraddock.games/Arcade/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+       <guid isPermaLink="false">http://davidcraddock.games/Arcade</guid> 
+      <description>&lt;p&gt;&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;https://davidcraddock.games/Arcade/4.JPG&#34;&gt;&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve always wanted an arcade machine in my home. But I could never really afford one, in terms of time and space. Recently I thought to myself, &amp;ldquo;I&amp;rsquo;m not getting any younger&amp;rdquo;. So I built an arcade setup mostly just using the things I already had in the home.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;https://davidcraddock.games/Arcade/1.JPG&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;games&#34;&gt;Games&lt;/h2&gt;
+&lt;p&gt;The ROMs I have are all stored on my file server upstairs. I can get around a 3gbits/sec connection via my 10gbits/sec home network, so there is no performance &amp;lsquo;hit&amp;rsquo; in streaming them off the network drive - it has similar speed and latency to a physical drive. Which is handy, because my ROM collection is way too big for the storage on my gaming PC.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
