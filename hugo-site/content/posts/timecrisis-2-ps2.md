@@ -8,6 +8,8 @@ url: /time-crisis-2-1-player-sinden
 
 ---
 
+21/6/25 - IMPORTANT NOTE: The method used in this guide does not currently offer the optimal experience for 2 players - there are problems with the 2 player dual cursor functionality! I therefore do not recommend this guide until I find time to research other methods and update it!
+
 This is a work in progress guide that I'm updating to be the 'optimal' way of playing Time Crisis 2 on PC.
 
 The current instructions require a 1080p screen and 2 footpedals, and enable 2 player mode with Sinden light guns.
