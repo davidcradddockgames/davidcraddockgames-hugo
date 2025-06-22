@@ -104,19 +104,22 @@ I have a 4K HDR KVM switch and a USB 3.0 KVM switch so I can quickly switch betw
 
 ### My PC Gaming Controllers
 
-#### Joypads
+#### Non-Official Joypads and Official Joypads available for PC use and multi-console use
 
 These all work with the gaming PC and laptop and connect via USB:
 
 * XBox Elite V2 White Controller
 * XBox Elite V1 Black Controller
-* XBOX Original "Big Duke" Controller with USB adaptor
 * Buffalo SNES USB Gamepad
+* XBox Duke Controller with USB adaptor
+* PS1 Controller with USB adaptor
 * PS2 Controller with USB adaptor
 * PS3 Controller with USB cable
 * PS4 Controller with USB cable
 * SNK Neo Geo Mini Controller with USB adaptor x2 - these are extremely well-built controllers!
-* XBox One Official 'Cyberpunk 2077' Controller
+* XBox One Official 'Cyberpunk 2077' Controller - collectors item, although I did complete Cyberpunk 2077 on PC with it!
+* 2x 8BitDo SN30 SNES-style 2.4ghz wireless controllers
+* 2x 8BitDo N30 Neo Geo-style 2.4ghz wireless controllers
 
 #### Steering Wheel and Pedals
 
@@ -144,15 +147,14 @@ It is connected via the gaming computer via a 4 port USB 2.0 extender over Cat6 
 
 ##### Arcade Sticks
 
-* Mayflash Arcade Stick F300 Elite with Sanwa buttons and stick using 8-way restrictor plate
+* 2x Mayflash Arcade Stick F300 Elites with Sanwa buttons and stick using 8-way restrictor plates
 * Datel Arcade Pro Joystick using 4-way restrictor plate
 
 ##### Light guns and Pedals
 
 * Sinden PC light gun with recoil (Black)
 * Sinden PC light gun without recoil (Red)
-* 1x iKKEGOL USB Foot Pedal (for duck and cover mechanics with light gun games)
-* 1x cheap unbranded USB Foot pedal (for duck and cover mechanics with light gun games)
+* 2x iKKEGOL USB Metal Foot Pedal (for duck and cover mechanics with light gun games)
 
 ##### Retro Games Consoles
 
@@ -162,7 +164,7 @@ I also have a [Marsellie MClassic](https://marseilleinc.com/products/buy-mclassi
 
 Currently these are the consoles I have hooked up. They are all 'PAL' unless otherwise specified:
 
-* **Super Nintendo** with 2x official controllers and NTSC and J-NTSC cartridge converter
+* **Super Nintendo** with 2x official controllers and NTSC and J-NTSC cartridge converter and Super Everdrive X5 with full games list on MicroSD card
 * **Sega Megadrive II (region unlocked)** with 2x official 3 button controllers, 2x official 6 button controllers and Master System cartridge converter
 * **Sony PS2** with 2x official PS2 controllers, and 1 x official PS1 controller, and 2x Guitar Hero PS2 Controllers.
 * **Sony PS3** with 1x official PS3 controller
@@ -173,11 +175,13 @@ Currently these are the consoles I have hooked up. They are all 'PAL' unless oth
 * **Sony PSP2000** (TV out)
 * **Nintendo Wii (Gamecube compatible version)** with 2x Wiimote Motion controller and official balance board
 * **Nintendo Wii U** with CFW Aroma installed and 1x Wii U Gamepad and 1x Wii U Pro Controller
-* **Nintendo Switch Unpatched V1** with CFW installed, 2x Joycons, Dock and 1x Switch Pro Controller
+* **Nintendo Switch Unpatched V1** with CFW installed, 2x Joycons, Dock and 2x Switch Pro Controllers
 * **Nintendo 64** with 2x official N64 controller, Kaico PAL N64 -> HDMI converter (audio output via HDMI), expansion pak and memory pak
 * **Microsoft XBox Original** with 2x Duke controllers
 * **SNK Mini Neo Geo International** with 2x official controllers, and mini HDMI to HDMI cable for monitor output (audio output via HDMI)
-* **Nintendo NES Mini** with 2x controllers
+* **Nintendo NES Mini** with 2x controllers and extension leads
+* **Sony Playstation Mini** with 2x official controllers
+* **Evercade VS-R Console** with 2x official controllers
 
 ##### Portable Retro Games Consoles
 
@@ -187,6 +191,7 @@ Currently these are the consoles I have hooked up. They are all 'PAL' unless oth
 * **Gameboy Advance SP** which I use almost exclusively for the game 'Final Fantasy Tactics'. I also have 4x cables to connect GBAs to the Nintendo Gamecube for multiplayer games that used this functionality, and a headphone adaptor for the GBA SP.
 * Original **Gameboy** which I use with Tetris.
 * **Ambernic RG35XXSP** handheld emulation device with MuOS firmware running RetroArch with a full set of Neo Geo, SNES, Genesis, Game Gear, Gameboy, Gameboy Advance ROMs.
+* **Evercade Mini Neo Geo Edition Handheld Console**
 
 ### Audio and Video Chain Setups
 
