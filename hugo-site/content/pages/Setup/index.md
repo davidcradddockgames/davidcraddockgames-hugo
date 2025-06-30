@@ -21,7 +21,7 @@ The setup consists of a media/gaming PC, a gaming laptop, a gaming PC, a music p
 * 1x 1TB SSD
 * 1x 500GB SSD
 * 1x 2.5 TB HDD (storage)
-* 3x Logitech C920 Webcams (for streaming)
+* 1x Logitech C920 Webcams
 * 1x Logitech C270 Webcam (for video calls)
 * 1x Nvidia 4070 GPU
 * 10Gb/sec fibre optic network card
@@ -112,14 +112,15 @@ These all work with the gaming PC and laptop and connect via USB:
 * XBox Elite V1 Black Controller
 * Buffalo SNES USB Gamepad
 * XBox Duke Controller with USB adaptor
-* PS1 Controller with USB adaptor
-* PS2 Controller with USB adaptor
-* PS3 Controller with USB cable
-* PS4 Controller with USB cable
-* SNK Neo Geo Mini Controller with USB adaptor x2 - these are extremely well-built controllers!
+* 1x PS1 Controller with USB adaptor
+* 2x PS2 Controller with USB adaptor
+* 1x PS3 Controller with USB cable
+* 2x PS4 Controller with USB cable
 * XBox One Official 'Cyberpunk 2077' Controller - collectors item, although I did complete Cyberpunk 2077 on PC with it!
+* 2x SNK Neo Geo Mini Controller with USB adaptor - these are extremely well-built controllers!
 * 2x 8BitDo SN30 SNES-style 2.4ghz wireless controllers
 * 2x 8BitDo N30 Neo Geo-style 2.4ghz wireless controllers
+* 2x 8BitDo M30 Megadrive-style 2.4ghz wireless controllers
 
 #### Steering Wheel and Pedals
 
@@ -318,36 +319,6 @@ Kinafun Wireless trasmitter/reciver for Kinafun wireless mic headset
 ```
 Marshall MG15G Guitar Amp for playing my electric guitar
 ```
-
-
-#### MIDI Routing Chains
-
-##### OUTPUT
-
-1.
-```
-Presonus Studio USB-C 1824 Midi Output -> Kenton MIDI Thru -> CV.OCD Polyphonic MIDI to CV Convertor -> Eurorack
-```
-2.
-```
-Presonus Studio USB-C 1824 Midi Output -> Kenton MIDI Thru -> Emu Orbit 9090 Synth
-```
-3.
-```
-Presonus Studio USB-C 1824 Midi Output -> Kenton MIDI Thru -> Lexicon Reverb Unit (for midi clocked effects)
-```
-4.
-```
-Presonus Studio USB-C 1824 Midi Output -> Kenton MIDI Thru -> Roland E-4 Vocal Tweaker (for midi-synced pitch effects)
-```
-
-##### INPUT
-
-1.
-```
-Roland A-500 Pro 49 Keyboard Controller -> Presonus Studio USB-C 1824 Midi Input
-```
-
 ### My PC and Console Games
 
 I collect physical and digital games, both modern and retro. You should able to browse through the games I have, both on PC and console, here: [https://wordswords.github.io/media-library-homepage](https://wordswords.github.io/media-library-homepage)
