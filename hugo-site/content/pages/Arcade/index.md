@@ -6,6 +6,7 @@ title: My Home Retro Arcade Setup
 url: /Arcade
 
 ---
+![image](lightguns.JPG)
 
 ![image](4.JPG)
 
