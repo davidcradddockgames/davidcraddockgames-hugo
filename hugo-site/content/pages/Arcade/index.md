@@ -55,7 +55,7 @@ The [FinalBurn Neo RetroArch Core](https://docs.libretro.com/library/fbneo/) is 
 
 I use two Arcade Sticks that I've had for a while to control the arcade games. Both have 8-way directional joysticks and at least 6 arcade style buttons.
 
-#### Mayflash Arcade Stick F300 Elite
+#### 2x Mayflash Arcade Stick F300 Elites
 
 This is the arcade stick that I generally use as it's the better of the two. It has genuine Swarma arcade buttons and a American style arcade joystick, which makes the arcade experience more like a 'real' arcade machine
 
