@@ -1,7 +1,7 @@
 baseURL: "https://davidcraddockgames.github.io/"
 title: DavidCraddock.Games
 copyright: "© David Paul Craddock"
-theme: PaperMod
+theme: PaperMod-dpc
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
