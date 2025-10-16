@@ -121,6 +121,8 @@ These all work with the gaming PC and laptop and connect via USB:
 * 2x 8BitDo SN30 SNES-style 2.4ghz wireless controllers
 * 2x 8BitDo N30 Neo Geo-style 2.4ghz wireless controllers
 * 2x 8BitDo M30 Megadrive-style 2.4ghz wireless controllers
+* 2x Retro Fighter Tribute64 2.4ghz wireless controllers for the Nintendo 64. They have an inbuilt rumble pack.
+* 2x 8BitDo Pro 2 Bluetooth controllers for the Playstation 2 and other platforms, with 2x 8BitDo PS/PS2 adaptors.
 
 #### Steering Wheel and Pedals
 
@@ -165,9 +167,9 @@ I also have a [Marsellie MClassic](https://marseilleinc.com/products/buy-mclassi
 
 Currently these are the consoles I have hooked up. They are all 'PAL' unless otherwise specified:
 
-* **Super Nintendo** with 2x official controllers and NTSC and J-NTSC cartridge converter and Super Everdrive X5 with full games list on MicroSD card
-* **Sega Megadrive II (region unlocked)** with 2x official 3 button controllers, 2x official 6 button controllers and Master System cartridge converter
-* **Sony PS2** with 2x official PS2 controllers, and 1 x official PS1 controller, and 2x Guitar Hero PS2 Controllers.
+* **Super Nintendo** with 2x official controllers and NTSC and J-NTSC cartridge converter and Super Everdrive X5 with ALL ever released SNES games on a MicroSD card.
+* **Sega Megadrive II (region unlocked)** with 2x official 3 button controllers, 2x official 6 button controllers and Master System cartridge converter, and an Mega Everdrive x5 cart with ALL released Megadrive/Genesis games available.
+* **Fat Sony PS2** with 2x official PS2 controllers, and 1 x official PS1 controller, and 2x Guitar Hero PS2 Controllers. I also have a 6TB drive in it with ALL released PS2 NTSC and PAL English games available.
 * **Sony PS3** with 1x official PS3 controller
 * **Sony PS4** with 2x official PS4 controllers
 * **Nintendo Gamecube** with 2x official Gamecube controllers
@@ -177,7 +179,7 @@ Currently these are the consoles I have hooked up. They are all 'PAL' unless oth
 * **Nintendo Wii (Gamecube compatible version)** with 2x Wiimote Motion controller and official balance board
 * **Nintendo Wii U** with CFW Aroma installed and 1x Wii U Gamepad and 1x Wii U Pro Controller
 * **Nintendo Switch Unpatched V1** with CFW installed, 2x Joycons, Dock and 2x Switch Pro Controllers
-* **Nintendo 64** with 2x official N64 controller, Kaico PAL N64 -> HDMI converter (audio output via HDMI), expansion pak and memory pak
+* **Nintendo 64** with 2x official N64 controller, Kaico PAL N64 -> HDMI converter (audio output via HDMI), expansion pak and memory pak, and 64 Everdrive cart with ALL released N64 games accessible on a MicroSD card.
 * **Microsoft XBox Original** with 2x Duke controllers
 * **SNK Mini Neo Geo International** with 2x official controllers, and mini HDMI to HDMI cable for monitor output (audio output via HDMI)
 * **Nintendo NES Mini** with 2x controllers and extension leads
