@@ -71,7 +71,7 @@ params:
   TocOpen: true # open contents automantically
   comments: true
   pagerSize: 5
-  images: ["mugshot.png"]
+  images: ["https://davidcradddockgames.github.io/davidcraddockgames.github.io/mugshot.png"]
 
   profileMode:
     enabled: false
