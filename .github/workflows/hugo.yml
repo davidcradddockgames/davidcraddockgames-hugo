@@ -1,4 +1,4 @@
-PUBLIC_REPO_ACCESS_PAT_TOKENname: Deploy Hugo Site
+name: Deploy Hugo Site
 
 permissions:
   id-token: write
