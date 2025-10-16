@@ -53,4 +53,7 @@ jobs:
     - name: Deploy to GitHub Pages
       id: deployment
       uses: actions/deploy-pages@v4
+      with:
+        - deploy_key: ${{ secrets.DEPLOY_KEY_PRIVATE }}
+        - external_repository: davidcraddockgames/davidcraddockgames.github.io
 
