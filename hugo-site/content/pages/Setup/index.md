@@ -1,7 +1,7 @@
 ---
 date: "2023-06-26T19:52:05+00:00"
 guid: https://davidcraddock.games/Setup
-title: Gaming PC Setup
+title: PC and Console Gaming Setup
 url: /Setup/
 
 ---
